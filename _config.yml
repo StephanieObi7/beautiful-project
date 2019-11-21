@@ -30,21 +30,21 @@ description: This research project will compare and analyze variance sequence da
 navbar-links:
   Home: ""
   PGR:
-    - What is PGR?: "getstarted"
+    - What is PGR?: "What is PGR?"
     - Human female sequence data of PGR: "featured-users"
     - Primate seuquence data of PGR: "https://github.com/daattali/beautiful-jekyll#readme"
   GD15:
-    - What is GD15?: "md-example"
+    - What is GD15?: "What is GD15?"
     - Human female sequence data of GD15: "html-example"
-  About me: "https://www.linkedin.com/school/george-washington-university/about/"
+  About project: "https://www.linkedin.com/school/george-washington-university/about/"
 
 # --- Footer options --- #
 
 # Change all these values or delete the ones you don't want.
 # Important: you must keep the "name" parameter, everything else you can remove
 author:
-  name: Your name goes here
-  email: "youremail@gmail.com"
+  name: Stephanie Obi
+  email: "stephanieobi7@ymail.com"
   facebook: yourfacebook
   github: yourgithub
   twitter: yourtwitter
