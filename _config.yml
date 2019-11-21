@@ -29,13 +29,13 @@ description: This research project will compare and analyze variance sequence da
 # List of links in the navigation bar
 navbar-links:
   Home: ""
-  Resources:
-    - Getting started: "getstarted"
-    - Other sites that use this template: "featured-users"
-    - External link to Beautiful Jekyll Template page: "https://github.com/daattali/beautiful-jekyll#readme"
-  Example pages:
-    - Example of a Markdown page: "md-example"
-    - Example of an HTML page: "html-example"
+  PGR:
+    - What is PGR?: "getstarted"
+    - Human female sequence data of PGR: "featured-users"
+    - Primate seuquence data of PGR: "https://github.com/daattali/beautiful-jekyll#readme"
+  GD15:
+    - What is GD15?: "md-example"
+    - Human female sequence data of GD15: "html-example"
   About me: "https://www.linkedin.com/school/george-washington-university/about/"
 
 # --- Footer options --- #
