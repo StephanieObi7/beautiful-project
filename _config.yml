@@ -30,11 +30,11 @@ description: This research project will compare and analyze variance sequence da
 navbar-links:
   Home: ""
   PGR:
-    - What is PGR?: "getting-started?"
+    - What is PGR?: "getstarted.html?"
     - Human female sequence data of PGR: "featured-users"
     - Primate seuquence data of PGR: "https://github.com/daattali/beautiful-jekyll#readme"
   GD15:
-    - What is GD15?: "md-example?"
+    - What is GD15?: "md-example.html?"
     - Human female sequence data of GD15: "html-example"
   About project: "https://www.linkedin.com/school/george-washington-university/about/"
 
